@@ -1,8 +1,5 @@
-Speakers
-========
 
-Arduino Speakers
- #include <FatReader.h>
+    #include <FatReader.h>
     #include <SdReader.h>
     #include <avr/pgmspace.h>
     #include "WaveUtil.h"
